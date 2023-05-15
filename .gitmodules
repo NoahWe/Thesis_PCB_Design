@@ -1,0 +1,3 @@
+[submodule "Teensy-4.1-example"]
+	path = Teensy-4.1-example
+	url = https://github.com/jenschr/Teensy-4.1-example.git
