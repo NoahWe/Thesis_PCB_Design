@@ -1,3 +1,9 @@
 [submodule "Teensy-4.1-example"]
 	path = Teensy-4.1-example
 	url = https://github.com/jenschr/Teensy-4.1-example.git
+[submodule "teensy_library"]
+	path = teensy_library
+	url = https://github.com/XenGi/teensy_library.git
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty.git
