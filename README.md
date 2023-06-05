@@ -1,5 +1,5 @@
 # Experiment
-This repository contains the PCB designs for a pressure sensor array using BMP581 sensors. The PCBs were designed to be used in the experiment which I will run as part of my MSc thesis. The experiment aims to determine the pressure distribution over a wing, located behind tilting rotors. The sensor array is specifically aimed at the vehicle designed by Alessandro Mancinelli (https://doi.org/10.1109/ICUAS54217.2022.9836063), and is supposed to resolve some of the problems experienced using tilt-rotors to roll.
+This repository contains the PCB designs for a pressure sensor array using BMP581 sensors which will be used during an experiment as part of my MSc thesis. The experiment aims to determine the pressure distribution over a wing, located behind tilting rotors. The sensor array is specifically aimed at the vehicle designed by Alessandro Mancinelli (https://doi.org/10.1109/ICUAS54217.2022.9836063), and is supposed to resolve some of the problems experienced using tilt-rotors to roll.
 
 ## How to get started
 1. Clone the repository
