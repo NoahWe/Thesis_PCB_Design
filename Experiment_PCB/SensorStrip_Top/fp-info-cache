@@ -1,4 +1,4 @@
-21697460616509462
+21697466735151236
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -25,29 +25,29 @@ Master_pins_bottom
 
 
 0
-15
-15
+14
+13
 BMP581
 Master_pins_top
 
 
 0
-15
-15
+14
+14
 BMP581
 Strip_pins_bottom
 
 
 0
-15
-15
+14
+14
 BMP581
 Strip_pins_top
 
 
 0
-15
-15
+14
+14
 BMP581
 Teensy41
 

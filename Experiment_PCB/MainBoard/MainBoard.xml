@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\noahw\Desktop\Thesis\Experiment\PCB design\Experiment_PCB\MainBoard\MainBoard.kicad_sch</source>
+    <date>05.06.23 17:29:23</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MainBoard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="master_connector_input1">
+      <value>std_master_input</value>
+      <footprint>BMP581:Master_pins_top</footprint>
+      <libsource lib="BMP581_symbol" part="std_master_input" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12597164-a19b-40fe-a69a-5b1d09cbaf4d</tstamps>
+    </comp>
+    <comp ref="master_connector_input2">
+      <value>std_master_input</value>
+      <footprint>BMP581:Master_pins_bottom</footprint>
+      <libsource lib="BMP581_symbol" part="std_master_input" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4bec1c-5dd6-468a-be88-ec3179dea95f</tstamps>
+    </comp>
+    <comp ref="master_connector_input3">
+      <value>std_master_input</value>
+      <footprint>BMP581:Master_pins_top</footprint>
+      <libsource lib="BMP581_symbol" part="std_master_input" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af055cb7-fc2c-4af3-ab03-301aa44ab35b</tstamps>
+    </comp>
+    <comp ref="master_connector_input4">
+      <value>std_master_input</value>
+      <footprint>BMP581:Master_pins_bottom</footprint>
+      <libsource lib="BMP581_symbol" part="std_master_input" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bfccb1b-92e2-4cc8-9c4c-8d55824a5c9f</tstamps>
+    </comp>
+    <comp ref="master_connector_input5">
+      <value>std_master_input</value>
+      <footprint>BMP581:Master_pins_top</footprint>
+      <libsource lib="BMP581_symbol" part="std_master_input" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e97bc458-c591-4c5d-baa4-eabaa8429005</tstamps>
+    </comp>
+    <comp ref="master_connector_input6">
+      <value>std_master_input</value>
+      <footprint>BMP581:Master_pins_bottom</footprint>
+      <libsource lib="BMP581_symbol" part="std_master_input" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2af4fbe9-50c2-42df-9838-7fbe2c4c806f</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0ee85d9-eb64-4415-aedb-d2b6e35d892a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>637d8ea2-7342-4e7d-a0d0-63578cfeb21d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03d005c3-2925-4453-ae9d-ffe787369343</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07237202-076f-48b9-aeb2-32dfe8453ca3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>632698c0-f9f0-4558-a343-3fcfc9fd03a0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ce0ed8a-b5f9-4f8a-935d-03bd85ab3767</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db15df28-1b08-4ba2-b9d0-f7907d1899bd</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da2252a-5234-4386-a82b-a2a9737b96fe</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>379c6848-4031-43dc-aab0-e8249ce65077</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71c3ba5f-26c1-43b8-b2ca-7cd84ed67b21</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63240380-3407-403c-9671-6e4ee68ab20e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adf29efd-7624-4186-909b-03c2ae8cd3da</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>276ff94f-4963-4fba-bccd-deba675cbde0</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2242198d-cb84-4054-9cf9-3d8097ee50a2</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>170810ba-08f9-4400-b1ef-be6099101e4c</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c1c63e-838d-4d5d-9e4a-be4af5d64d22</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c09a29e-1924-4a5e-83a1-98119d3a5070</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec7f4c6e-5e12-4ad3-9ee2-d8a4a803237e</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2400d0ef-3a0d-48d5-acc7-d420e63665a4</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff68ade5-74f0-4d5b-91b8-c11b8e780ba9</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bd3d77b-581d-465e-b0fe-1b28f1b24be7</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>094ad53b-7b4e-45e6-a7b5-beac84691437</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fb5a41a-e70f-4c0b-99dd-349782b3b33b</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a870f321-392c-499c-b446-1879039c7f70</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>944bba68-0005-4fd9-815c-a0f70cfa2e65</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89b831ae-96c7-454f-a413-af5136bc2997</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c66c4806-e7c5-4f75-b363-821ee153b4c8</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1d643e0-14c4-4c91-9e83-89c7d1404210</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ace4951-33d5-4fb8-a7fe-bf8fd0305790</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>750baab4-c5e5-4423-be70-422b52542ca1</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db0dff29-8ce5-40b8-a60a-2eada1fb5a51</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84dc24cf-b963-4756-a9e0-9c180565a583</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac39b7c-d08e-496f-af67-909b53fd981e</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eee351ea-3f7e-43b1-b716-a811be812924</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d3d89f8-bd4f-44ab-94c9-2a3450416e74</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>934d8d4b-24b5-43c6-b58c-1cc386905dd1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Teensy4.1</value>
+      <footprint>BMP581:Teensy41</footprint>
+      <libsource lib="teensy" part="Teensy4.1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MainBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9962c75-633d-4fc3-bbcc-63c8cfe6fdd3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BMP581_symbol" part="std_master_input">
+      <fields>
+        <field name="Reference">master_connector_input</field>
+        <field name="Value">std_master_input</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDDIO" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VDD" type="input"/>
+        <pin num="4" name="SCK" type="input"/>
+        <pin num="5" name="MISO" type="output"/>
+        <pin num="6" name="MOSI" type="input"/>
+        <pin num="7" name="SCK1" type="input"/>
+        <pin num="8" name="MISO1" type="output"/>
+        <pin num="9" name="MOSI1" type="input"/>
+        <pin num="10" name="CS1" type="input"/>
+        <pin num="11" name="CS2" type="input"/>
+        <pin num="12" name="CS3" type="input"/>
+        <pin num="13" name="CS4" type="input"/>
+        <pin num="14" name="CS5" type="input"/>
+        <pin num="15" name="CS6" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="teensy" part="Teensy4.1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Teensy4.1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="0_RX1_CRX2_CS1" type="bidirectional"/>
+        <pin num="3" name="1_TX1_CTX2_MISO1" type="bidirectional"/>
+        <pin num="4" name="2_OUT2" type="bidirectional"/>
+        <pin num="5" name="3_LRCLK2" type="bidirectional"/>
+        <pin num="6" name="4_BCLK2" type="bidirectional"/>
+        <pin num="7" name="5_IN2" type="bidirectional"/>
+        <pin num="8" name="6_OUT1D" type="bidirectional"/>
+        <pin num="9" name="7_RX2_OUT1A" type="bidirectional"/>
+        <pin num="10" name="8_TX2_IN1" type="bidirectional"/>
+        <pin num="11" name="9_OUT1C" type="bidirectional"/>
+        <pin num="12" name="10_CS_MQSR" type="bidirectional"/>
+        <pin num="13" name="11_MOSI_CTX1" type="bidirectional"/>
+        <pin num="14" name="12_MISO_MQSL" type="bidirectional"/>
+        <pin num="15" name="3V3" type="power_in"/>
+        <pin num="16" name="24_A10_TX6_SCL2" type="bidirectional"/>
+        <pin num="17" name="25_A11_RX6_SDA2" type="bidirectional"/>
+        <pin num="18" name="26_A12_MOSI1" type="bidirectional"/>
+        <pin num="19" name="27_A13_SCK1" type="bidirectional"/>
+        <pin num="20" name="28_RX7" type="bidirectional"/>
+        <pin num="21" name="29_TX7" type="bidirectional"/>
+        <pin num="22" name="30_CRX3" type="bidirectional"/>
+        <pin num="23" name="31_CTX3" type="bidirectional"/>
+        <pin num="24" name="32_OUT1B" type="bidirectional"/>
+        <pin num="25" name="33_MCLK2" type="bidirectional"/>
+        <pin num="26" name="34_RX8" type="bidirectional"/>
+        <pin num="27" name="35_TX8" type="bidirectional"/>
+        <pin num="28" name="36_CS" type="bidirectional"/>
+        <pin num="29" name="37_CS" type="bidirectional"/>
+        <pin num="30" name="38_CS1_IN1" type="bidirectional"/>
+        <pin num="31" name="39_MISO1_OUT1A" type="bidirectional"/>
+        <pin num="32" name="40_A16" type="bidirectional"/>
+        <pin num="33" name="41_A17" type="bidirectional"/>
+        <pin num="34" name="GND" type="power_in"/>
+        <pin num="35" name="13_SCK_LED" type="bidirectional"/>
+        <pin num="36" name="14_A0_TX3_SPDIF_OUT" type="bidirectional"/>
+        <pin num="37" name="15_A1_RX3_SPDIF_IN" type="bidirectional"/>
+        <pin num="38" name="16_A2_RX4_SCL1" type="bidirectional"/>
+        <pin num="39" name="17_A3_TX4_SDA1" type="bidirectional"/>
+        <pin num="40" name="18_A4_SDA" type="bidirectional"/>
+        <pin num="41" name="19_A5_SCL" type="bidirectional"/>
+        <pin num="42" name="20_A6_TX5_LRCLK1" type="bidirectional"/>
+        <pin num="43" name="21_A7_RX5_BCLK1" type="bidirectional"/>
+        <pin num="44" name="22_A8_CTX1" type="bidirectional"/>
+        <pin num="45" name="23_A9_CRX1_MCLK1" type="bidirectional"/>
+        <pin num="46" name="3V3" type="output"/>
+        <pin num="47" name="GND" type="output"/>
+        <pin num="48" name="VIN" type="power_in"/>
+        <pin num="49" name="VUSB" type="power_out"/>
+        <pin num="50" name="VBAT" type="power_in"/>
+        <pin num="51" name="3V3" type="power_in"/>
+        <pin num="52" name="GND" type="input"/>
+        <pin num="53" name="PROGRAM" type="input"/>
+        <pin num="54" name="ON_OFF" type="input"/>
+        <pin num="55" name="5V" type="power_out"/>
+        <pin num="56" name="D-" type="bidirectional"/>
+        <pin num="57" name="D+" type="bidirectional"/>
+        <pin num="58" name="GND" type="power_in"/>
+        <pin num="59" name="GND" type="power_in"/>
+        <pin num="60" name="R+" type="bidirectional"/>
+        <pin num="61" name="LED" type="bidirectional"/>
+        <pin num="62" name="T-" type="bidirectional"/>
+        <pin num="63" name="T+" type="bidirectional"/>
+        <pin num="64" name="GND" type="power_in"/>
+        <pin num="65" name="R-" type="bidirectional"/>
+        <pin num="66" name="D-" type="bidirectional"/>
+        <pin num="67" name="D+" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BMP581_symbol">
+      <uri>C:/Users/noahw/Desktop/Thesis/Experiment/PCB design/BMP581_lib/BMP581_symbol.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/CS1">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="33_MCLK2" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="10" pinfunction="CS1" pintype="input"/>
+    </net>
+    <net code="2" name="/CS2">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="34_RX8" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="11" pinfunction="CS2" pintype="input"/>
+    </net>
+    <net code="3" name="/CS3">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="35_TX8" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="12" pinfunction="CS3" pintype="input"/>
+    </net>
+    <net code="4" name="/CS4">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="36_CS" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="13" pinfunction="CS4" pintype="input"/>
+    </net>
+    <net code="5" name="/CS5">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="37_CS" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="14" pinfunction="CS5" pintype="input"/>
+    </net>
+    <net code="6" name="/CS6">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="38_CS1_IN1" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="15" pinfunction="CS6" pintype="input"/>
+    </net>
+    <net code="7" name="/CS7">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="39_MISO1_OUT1A" pintype="bidirectional"/>
+      <node ref="master_connector_input2" pin="10" pinfunction="CS1" pintype="input"/>
+    </net>
+    <net code="8" name="/CS8">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="40_A16" pintype="bidirectional"/>
+      <node ref="master_connector_input2" pin="11" pinfunction="CS2" pintype="input"/>
+    </net>
+    <net code="9" name="/CS9">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="41_A17" pintype="bidirectional"/>
+      <node ref="master_connector_input2" pin="12" pinfunction="CS3" pintype="input"/>
+    </net>
+    <net code="10" name="/CS10">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="14_A0_TX3_SPDIF_OUT" pintype="bidirectional"/>
+      <node ref="master_connector_input2" pin="13" pinfunction="CS4" pintype="input"/>
+    </net>
+    <net code="11" name="/CS11">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="15_A1_RX3_SPDIF_IN" pintype="bidirectional"/>
+      <node ref="master_connector_input2" pin="14" pinfunction="CS5" pintype="input"/>
+    </net>
+    <net code="12" name="/CS12">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="16_A2_RX4_SCL1" pintype="bidirectional"/>
+      <node ref="master_connector_input2" pin="15" pinfunction="CS6" pintype="input"/>
+    </net>
+    <net code="13" name="/CS13">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="17_A3_TX4_SDA1" pintype="bidirectional"/>
+      <node ref="master_connector_input3" pin="10" pinfunction="CS1" pintype="input"/>
+    </net>
+    <net code="14" name="/CS14">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="18_A4_SDA" pintype="bidirectional"/>
+      <node ref="master_connector_input3" pin="11" pinfunction="CS2" pintype="input"/>
+    </net>
+    <net code="15" name="/CS15">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="19_A5_SCL" pintype="bidirectional"/>
+      <node ref="master_connector_input3" pin="12" pinfunction="CS3" pintype="input"/>
+    </net>
+    <net code="16" name="/CS16">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="20_A6_TX5_LRCLK1" pintype="bidirectional"/>
+      <node ref="master_connector_input3" pin="13" pinfunction="CS4" pintype="input"/>
+    </net>
+    <net code="17" name="/CS17">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="21_A7_RX5_BCLK1" pintype="bidirectional"/>
+      <node ref="master_connector_input3" pin="14" pinfunction="CS5" pintype="input"/>
+    </net>
+    <net code="18" name="/CS18">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="22_A8_CTX1" pintype="bidirectional"/>
+      <node ref="master_connector_input3" pin="15" pinfunction="CS6" pintype="input"/>
+    </net>
+    <net code="19" name="/CS19">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="23_A9_CRX1_MCLK1" pintype="bidirectional"/>
+      <node ref="master_connector_input6" pin="10" pinfunction="CS1" pintype="input"/>
+    </net>
+    <net code="20" name="/CS20">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="0_RX1_CRX2_CS1" pintype="bidirectional"/>
+      <node ref="master_connector_input6" pin="11" pinfunction="CS2" pintype="input"/>
+    </net>
+    <net code="21" name="/CS21">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="2_OUT2" pintype="bidirectional"/>
+      <node ref="master_connector_input6" pin="12" pinfunction="CS3" pintype="input"/>
+    </net>
+    <net code="22" name="/CS22">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="3_LRCLK2" pintype="bidirectional"/>
+      <node ref="master_connector_input6" pin="13" pinfunction="CS4" pintype="input"/>
+    </net>
+    <net code="23" name="/CS23">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="4_BCLK2" pintype="bidirectional"/>
+      <node ref="master_connector_input6" pin="14" pinfunction="CS5" pintype="input"/>
+    </net>
+    <net code="24" name="/CS24">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="5_IN2" pintype="bidirectional"/>
+      <node ref="master_connector_input6" pin="15" pinfunction="CS6" pintype="input"/>
+    </net>
+    <net code="25" name="/CS25">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="6_OUT1D" pintype="bidirectional"/>
+      <node ref="master_connector_input5" pin="10" pinfunction="CS1" pintype="input"/>
+    </net>
+    <net code="26" name="/CS26">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="7_RX2_OUT1A" pintype="bidirectional"/>
+      <node ref="master_connector_input5" pin="11" pinfunction="CS2" pintype="input"/>
+    </net>
+    <net code="27" name="/CS27">
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="8_TX2_IN1" pintype="bidirectional"/>
+      <node ref="master_connector_input5" pin="12" pinfunction="CS3" pintype="input"/>
+    </net>
+    <net code="28" name="/CS28">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="9_OUT1C" pintype="bidirectional"/>
+      <node ref="master_connector_input5" pin="13" pinfunction="CS4" pintype="input"/>
+    </net>
+    <net code="29" name="/CS29">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="10_CS_MQSR" pintype="bidirectional"/>
+      <node ref="master_connector_input5" pin="14" pinfunction="CS5" pintype="input"/>
+    </net>
+    <net code="30" name="/CS30">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="24_A10_TX6_SCL2" pintype="bidirectional"/>
+      <node ref="master_connector_input5" pin="15" pinfunction="CS6" pintype="input"/>
+    </net>
+    <net code="31" name="/CS31">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="25_A11_RX6_SDA2" pintype="bidirectional"/>
+      <node ref="master_connector_input4" pin="10" pinfunction="CS1" pintype="input"/>
+    </net>
+    <net code="32" name="/CS32">
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="28_RX7" pintype="bidirectional"/>
+      <node ref="master_connector_input4" pin="11" pinfunction="CS2" pintype="input"/>
+    </net>
+    <net code="33" name="/CS33">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="29_TX7" pintype="bidirectional"/>
+      <node ref="master_connector_input4" pin="12" pinfunction="CS3" pintype="input"/>
+    </net>
+    <net code="34" name="/CS34">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="30_CRX3" pintype="bidirectional"/>
+      <node ref="master_connector_input4" pin="13" pinfunction="CS4" pintype="input"/>
+    </net>
+    <net code="35" name="/CS35">
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="31_CTX3" pintype="bidirectional"/>
+      <node ref="master_connector_input4" pin="14" pinfunction="CS5" pintype="input"/>
+    </net>
+    <net code="36" name="/CS36">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="32_OUT1B" pintype="bidirectional"/>
+      <node ref="master_connector_input4" pin="15" pinfunction="CS6" pintype="input"/>
+    </net>
+    <net code="37" name="GND">
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="47" pinfunction="GND" pintype="output"/>
+      <node ref="master_connector_input1" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="master_connector_input2" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="master_connector_input3" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="master_connector_input4" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="master_connector_input5" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="master_connector_input6" pin="2" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="38" name="MISO">
+      <node ref="U1" pin="14" pinfunction="12_MISO_MQSL" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="5" pinfunction="MISO" pintype="output"/>
+      <node ref="master_connector_input2" pin="5" pinfunction="MISO" pintype="output"/>
+      <node ref="master_connector_input3" pin="5" pinfunction="MISO" pintype="output"/>
+      <node ref="master_connector_input4" pin="5" pinfunction="MISO" pintype="output"/>
+      <node ref="master_connector_input5" pin="5" pinfunction="MISO" pintype="output"/>
+      <node ref="master_connector_input6" pin="5" pinfunction="MISO" pintype="output"/>
+    </net>
+    <net code="39" name="MISO1">
+      <node ref="U1" pin="3" pinfunction="1_TX1_CTX2_MISO1" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="8" pinfunction="MISO1" pintype="output"/>
+      <node ref="master_connector_input2" pin="8" pinfunction="MISO1" pintype="output"/>
+      <node ref="master_connector_input3" pin="8" pinfunction="MISO1" pintype="output"/>
+      <node ref="master_connector_input4" pin="8" pinfunction="MISO1" pintype="output"/>
+      <node ref="master_connector_input5" pin="8" pinfunction="MISO1" pintype="output"/>
+      <node ref="master_connector_input6" pin="8" pinfunction="MISO1" pintype="output"/>
+    </net>
+    <net code="40" name="MOSI">
+      <node ref="U1" pin="13" pinfunction="11_MOSI_CTX1" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="6" pinfunction="MOSI" pintype="input"/>
+      <node ref="master_connector_input2" pin="6" pinfunction="MOSI" pintype="input"/>
+      <node ref="master_connector_input3" pin="6" pinfunction="MOSI" pintype="input"/>
+      <node ref="master_connector_input4" pin="6" pinfunction="MOSI" pintype="input"/>
+      <node ref="master_connector_input5" pin="6" pinfunction="MOSI" pintype="input"/>
+      <node ref="master_connector_input6" pin="6" pinfunction="MOSI" pintype="input"/>
+    </net>
+    <net code="41" name="MOSI1">
+      <node ref="U1" pin="18" pinfunction="26_A12_MOSI1" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="9" pinfunction="MOSI1" pintype="input"/>
+      <node ref="master_connector_input2" pin="9" pinfunction="MOSI1" pintype="input"/>
+      <node ref="master_connector_input3" pin="9" pinfunction="MOSI1" pintype="input"/>
+      <node ref="master_connector_input4" pin="9" pinfunction="MOSI1" pintype="input"/>
+      <node ref="master_connector_input5" pin="9" pinfunction="MOSI1" pintype="input"/>
+      <node ref="master_connector_input6" pin="9" pinfunction="MOSI1" pintype="input"/>
+    </net>
+    <net code="42" name="SCK">
+      <node ref="U1" pin="35" pinfunction="13_SCK_LED" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="4" pinfunction="SCK" pintype="input"/>
+      <node ref="master_connector_input2" pin="4" pinfunction="SCK" pintype="input"/>
+      <node ref="master_connector_input3" pin="4" pinfunction="SCK" pintype="input"/>
+      <node ref="master_connector_input4" pin="4" pinfunction="SCK" pintype="input"/>
+      <node ref="master_connector_input5" pin="4" pinfunction="SCK" pintype="input"/>
+      <node ref="master_connector_input6" pin="4" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="43" name="SCK1">
+      <node ref="U1" pin="19" pinfunction="27_A13_SCK1" pintype="bidirectional"/>
+      <node ref="master_connector_input1" pin="7" pinfunction="SCK1" pintype="input"/>
+      <node ref="master_connector_input2" pin="7" pinfunction="SCK1" pintype="input"/>
+      <node ref="master_connector_input3" pin="7" pinfunction="SCK1" pintype="input"/>
+      <node ref="master_connector_input4" pin="7" pinfunction="SCK1" pintype="input"/>
+      <node ref="master_connector_input5" pin="7" pinfunction="SCK1" pintype="input"/>
+      <node ref="master_connector_input6" pin="7" pinfunction="SCK1" pintype="input"/>
+    </net>
+    <net code="44" name="VDD">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="3V3" pintype="power_in"/>
+      <node ref="master_connector_input1" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="master_connector_input2" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="master_connector_input3" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="master_connector_input4" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="master_connector_input5" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="master_connector_input6" pin="3" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="45" name="VDDIO">
+      <node ref="U1" pin="46" pinfunction="3V3" pintype="output"/>
+      <node ref="master_connector_input1" pin="1" pinfunction="VDDIO" pintype="input"/>
+      <node ref="master_connector_input2" pin="1" pinfunction="VDDIO" pintype="input"/>
+      <node ref="master_connector_input3" pin="1" pinfunction="VDDIO" pintype="input"/>
+      <node ref="master_connector_input4" pin="1" pinfunction="VDDIO" pintype="input"/>
+      <node ref="master_connector_input5" pin="1" pinfunction="VDDIO" pintype="input"/>
+      <node ref="master_connector_input6" pin="1" pinfunction="VDDIO" pintype="input"/>
+    </net>
+    <net code="46" name="unconnected-(U1-3V3-Pad51)">
+      <node ref="U1" pin="51" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="47" name="unconnected-(U1-5V-Pad55)">
+      <node ref="U1" pin="55" pinfunction="5V" pintype="power_out"/>
+    </net>
+    <net code="48" name="unconnected-(U1-D+-Pad57)">
+      <node ref="U1" pin="57" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U1-D+-Pad67)">
+      <node ref="U1" pin="67" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U1-D--Pad56)">
+      <node ref="U1" pin="56" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-D--Pad66)">
+      <node ref="U1" pin="66" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U1-GND-Pad52)">
+      <node ref="U1" pin="52" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="53" name="unconnected-(U1-GND-Pad58)">
+      <node ref="U1" pin="58" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="54" name="unconnected-(U1-GND-Pad59)">
+      <node ref="U1" pin="59" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="55" name="unconnected-(U1-GND-Pad64)">
+      <node ref="U1" pin="64" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="56" name="unconnected-(U1-LED-Pad61)">
+      <node ref="U1" pin="61" pinfunction="LED" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U1-ON_OFF-Pad54)">
+      <node ref="U1" pin="54" pinfunction="ON_OFF" pintype="input"/>
+    </net>
+    <net code="58" name="unconnected-(U1-PROGRAM-Pad53)">
+      <node ref="U1" pin="53" pinfunction="PROGRAM" pintype="input"/>
+    </net>
+    <net code="59" name="unconnected-(U1-R+-Pad60)">
+      <node ref="U1" pin="60" pinfunction="R+" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U1-R--Pad65)">
+      <node ref="U1" pin="65" pinfunction="R-" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U1-T+-Pad63)">
+      <node ref="U1" pin="63" pinfunction="T+" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U1-T--Pad62)">
+      <node ref="U1" pin="62" pinfunction="T-" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U1-VBAT-Pad50)">
+      <node ref="U1" pin="50" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="64" name="unconnected-(U1-VIN-Pad48)">
+      <node ref="U1" pin="48" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="65" name="unconnected-(U1-VUSB-Pad49)">
+      <node ref="U1" pin="49" pinfunction="VUSB" pintype="power_out"/>
+    </net>
+  </nets>
+</export>
