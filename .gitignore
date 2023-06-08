@@ -30,4 +30,6 @@ fp-info-cache
 
 # Exported Gerbers and drill files
 *.gbr
+*.gbrjob
 *.drl
+
